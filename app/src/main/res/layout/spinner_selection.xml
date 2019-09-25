@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minWidth="@dimen/minimum_spinner_width"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/spinnerselection_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minWidth="@dimen/minimum_spinner_text_width"
+        android:minHeight="@dimen/minimum_spinner_height"
+        android:text=""
+        android:textColor="@color/colorTransparent" />
+
+
+    <ImageView
+        android:id="@+id/spinnerselection_image"
+        android:layout_width="@dimen/minimum_spinner_image_width"
+        android:layout_height="@dimen/minimum_spinner_image_height"
+        android:layout_toRightOf="@+id/spinnerselection_txt"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

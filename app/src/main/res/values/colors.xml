@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparentcolorAccent">#aa5A499A</color>
+    <color name="d2d_blue">#0AA7E1</color>
+    <color name="d2d_pink">#E64282</color>
+    <color name="d2d_purple">#5a499a</color>
+    <color name="d2d_purple_50">#805A499A</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="toolbarcolorstatus">#293541</color>
+    <color name="bg">#ebe7fa</color>
+    <color name="bg_transparent">#bfebe7fa</color>
+    <color name="darkred">#e70219</color>
+    <color name="light_red">#C54951</color>
+    <color name="green">#FF29C64D</color>
+    <color name="dark_green">#166627</color>
+
+    <color name="green_trans">#bf29C64D</color>
+    <color name="orange_trans">#bfc67f29</color>
+    <color name="orange">#c67f29</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="textcolor_heading">#90000000</color>
+
+    <color name="lite_dial">#95B9DC</color>
+    <color name="lite_diallight">#3195b9dc</color>
+</resources>

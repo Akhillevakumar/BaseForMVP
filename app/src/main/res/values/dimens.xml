@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minimum_spinner_width">400dp</dimen>
+    <dimen name="minimum_spinner_height">40dp</dimen>
+    <dimen name="minimum_spinner_image_height">40dp</dimen>
+    <dimen name="minimum_spinner_image_width">40dp</dimen>
+    <dimen name="minimum_spinner_text_width">350dp</dimen>
+
+
+    <dimen name="minimum_passcode_width">400dp</dimen>
+    <dimen name="minimum_passcode_height">40dp</dimen>
+    <dimen name="minimum_continue_button_height">40dp</dimen>
+    <dimen name="minimum_continue_button_width">400dp</dimen>
+    <dimen name="productgrid_columnwidth">90dp</dimen>
+    <dimen name="productgrid_columnheight">120dp</dimen>
+    <dimen name="itemproduct_stock_dem">50dp</dimen>
+    <dimen name="minwidth_dialogue">400dp</dimen>
+    <dimen name="main_layout_menusize">200dp</dimen>
+    <dimen name="main_layout_menuicon">100dp</dimen>
+    <dimen name="main_layout_menutextsize">18sp</dimen>
+    <dimen name="main_layout_menupadding">15dp</dimen>
+
+    <dimen name="productgrid_150">150dp</dimen>
+    <dimen name="productgrid_180">180dp</dimen>
+
+
+
+    <dimen name="textSize">16sp</dimen>
+
+</resources>
